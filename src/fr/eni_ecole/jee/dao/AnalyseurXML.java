@@ -3,7 +3,7 @@
  * @date 27 juil. 2017
  * @version Home_TPVille V1.0
  */
-package fr.eni_ecole.jee.manip.xml;
+package fr.eni_ecole.jee.dao;
 
 import java.util.ArrayList;
 import java.util.Arrays;
